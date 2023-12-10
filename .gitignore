@@ -8,10 +8,6 @@ firebase-debug.log*
 firebase-debug.*.log*
 
 # Firebase cache
-.firebase/
-.evershop
-.log
-node_modules
 .env
 
 # Firebase config
